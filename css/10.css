@@ -1,0 +1,16 @@
+.tabela{
+border: 1px solid rgb(235, 6, 235);
+
+}
+.tabela th{
+border: 1px solid rgb(175, 21, 175);
+background: rgb(238, 69, 238);
+color: rgb(252, 252, 252);
+font-size: 16px;
+padding: 10px;
+}
+.tabela td{
+border: 1px solid rgb(255, 3, 179);
+
+
+}
